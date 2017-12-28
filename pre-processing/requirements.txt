@@ -1,0 +1,5 @@
+Pillow==3.3.1
+ipython==5.3.0
+ipython-genutils==0.2.0
+google-api-python-client==1.6.2
+google-cloud-storage==1.6.0
